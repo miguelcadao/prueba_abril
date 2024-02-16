@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/npm/@chainlink/contracts/src/v0.6/vendor/CBORChainlink.sol": "CBORChainlink"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/npm/@chainlink/contracts/src/v0.6/vendor/BufferChainlink.sol": {
+			"keccak256": "0x25d745286238ab35dafa268bcd21ba135eae1d405cc8449b96fdb166ff2f275e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1b25157f4960ae5d1beeec8d816d2fcfee0ae5ea700e205f28d9aca612e7ebbd",
+				"dweb:/ipfs/Qmc7TGysDqRkzanstumiV9DDF7fszBuryJer8ekf6cmxdr"
+			]
+		},
+		".deps/npm/@chainlink/contracts/src/v0.6/vendor/CBORChainlink.sol": {
+			"keccak256": "0x75ff499ac35f5f69dc4e836a02cf9ef052f83fe82efa4af6dc2f6839c306e13e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://508b1dda1ce3e602c4cc80a362924fe503af2c697445e03fd8a5fa16585e72e9",
+				"dweb:/ipfs/QmfEN4TWiRwGSUQUMG3fEhWA5ksiM4TAxHbGKJ63r6vdAH"
+			]
+		}
+	},
+	"version": 1
+}
